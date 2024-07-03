@@ -1,0 +1,6 @@
+Jul 03 2024 04:26:40
+{"Number":2,"Message":"rmdir(C:\\Users\\cazad\\Local Sites\\neonos\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\bjuqm2z89wbq): Directory not empty","File":"C:\\Users\\cazad\\Local Sites\\neonos\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Jul 03 2024 04:26:42
+{"Number":2,"Message":"filesize(): stat failed for C:\\Users\\cazad\\Local Sites\\neonos\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\bjuqm2z89wbq\\localhost-20240703-042627-6ykvc8.wpress","File":"C:\\Users\\cazad\\Local Sites\\neonos\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
